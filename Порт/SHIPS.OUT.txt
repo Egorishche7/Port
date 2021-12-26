@@ -1,0 +1,39 @@
+The queue of the ships is:
+Santa Maria
+Quin
+Earth
+Victory
+The dock list status is:
+Dock number 1: is empty
+Dock number 2: is empty
+Dock number 3: is empty
+Dock number 4: is empty
+Dock number 5: is empty
+Dock number 6: is empty
+Dock number 7: is empty
+Dock number 8: is empty
+The Dock 6take a ship
+The Dock 6take a ship
+The Dock 6take a ship
+The Dock 6take a ship
+The queue of the ships is:
+The dock list status is:
+Dock number 1: is empty
+Dock number 2: is empty
+Dock number 3: is empty
+Dock number 4: is empty
+Dock number 5: is empty
+Dock number 6: is empty
+Dock number 7: the ship Victory is unloading
+Dock number 8: is empty
+The Dock 6take a ship
+The queue of the ships is:
+The dock list status is:
+Dock number 1: is empty
+Dock number 2: is empty
+Dock number 3: is empty
+Dock number 4: is empty
+Dock number 5: is empty
+Dock number 6: is empty
+Dock number 7: is empty
+Dock number 8: is empty
